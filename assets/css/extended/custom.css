@@ -1,0 +1,35 @@
+/* 3 column grid for post list */
+.post-entry {
+    display: inline-block;
+    width: calc(33.333% - 20px);
+    vertical-align: top;
+    margin: 10px;
+}
+
+.main .first-entry {
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+
+@media (max-width: 900px) {
+    .post-entry {
+        width: calc(50% - 20px);
+    }
+}
+
+@media (max-width: 600px) {
+    .post-entry {
+        width: 100%;
+        margin: 10px 0;
+    }
+}
+
+/* Clean up card style */
+.post-entry .entry-cover {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.post-entry .entry-header h2 {
+    font-size: 1.1rem;
+}
