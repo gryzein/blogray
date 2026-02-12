@@ -6,7 +6,7 @@ title = "Blogray"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+copyright = "Copyright © 2026 Blogray"
 
 # Name of theme
 theme = "meme"
@@ -355,7 +355,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2026-02-12T00:00:00+07:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -1342,7 +1342,7 @@ uglyURLs = false
     displaySiteAuthorName = true
 
     # Display links to Hugo and MemE?
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     displaySiteCopyright = true
 
