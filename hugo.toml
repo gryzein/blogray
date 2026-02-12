@@ -1328,18 +1328,18 @@ uglyURLs = false
     displayFooterInHome = true
 
     displayCopyleftSymbol = false
-    displayCopyrightSymbol = true
+    displayCopyrightSymbol = false
 
     displaySiteCreatedYear = true
 
     # Leave it empty("") if you don’t want
     # the icon
-    iconBetweenYearAndAuthor = "heart"
+    iconBetweenYearAndAuthor = ""
     iconColor = "#f06292"
     # Enable heartbeat animation?
     iconAnimation = true
 
-    displaySiteAuthorName = true
+    displaySiteAuthorName = false
 
     # Display links to Hugo and MemE?
     displayPoweredBy = false
@@ -1521,7 +1521,7 @@ uglyURLs = false
     # Author’s information
     [params.author]
         # Name
-        name = "reuixiy"
+        name = "Gray"
         # Email
         email = "reuixiy@gmail.com"
         # Motto or introduction
