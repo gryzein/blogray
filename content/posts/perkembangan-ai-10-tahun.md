@@ -3,10 +3,10 @@ title: "Perkembangan AI 10 Tahun ke Depan: Transformasi yang Akan Mengubah Dunia
 date: 2026-02-12
 draft: false
 images:
-  - /ai-future-cover.jpg
+  - /blogray/ai-future-cover.jpg
 ---
 
-![Cover](/ai-future-cover.jpg)
+![Cover](/blogray/ai-future-cover.jpg)
 
 Kecerdasan buatan (AI) telah berkembang dengan kecepatan yang mencengangkan dalam dekade terakhir. Dari asisten virtual sederhana hingga model bahasa canggih yang dapat menulis, mendesain, dan bahkan membuat kode, AI telah menjadi bagian integral dari kehidupan kita. Namun, apa yang menanti kita 10 tahun ke depan? Berikut adalah proyeksi perkembangan AI yang kemungkinan besar akan kita saksikan hingga tahun 2036.
 
