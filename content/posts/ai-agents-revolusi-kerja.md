@@ -4,7 +4,7 @@ date: 2026-02-13T07:00:00+07:00
 draft: false
 description: "AI Agents telah berevolusi dari asisten sederhana menjadi sistem otonom yang mampu menyelesaikan proyek kompleks. Bagaimana dampaknya terhadap dunia kerja?"
 cover:
-  image: "/blogray/ai-agents-revolution-cover.jpg"
+  image: "/ai-agents-revolution-cover.jpg"
   alt: "AI Agents Revolution"
   caption: ""
   relative: false

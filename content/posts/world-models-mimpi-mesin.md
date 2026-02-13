@@ -3,7 +3,7 @@ title: "World Models: Ketika Mesin Belajar Bermimpi"
 date: 2026-02-12T23:45:00+07:00
 draft: false
 cover:
-  image: "/blogray/world-models-cover.jpg"
+  image: "/world-models-cover.jpg"
   alt: "World Models AI"
   caption: ""
   relative: false

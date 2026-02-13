@@ -3,7 +3,7 @@ title: "Perkembangan AI 10 Tahun ke Depan: Transformasi yang Akan Mengubah Dunia
 date: 2026-02-12
 draft: false
 cover:
-  image: "/blogray/ai-future-cover.jpg"
+  image: "/ai-future-cover.jpg"
   alt: "AI Future"
   caption: ""
   relative: false
