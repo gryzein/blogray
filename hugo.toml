@@ -19,7 +19,7 @@ buildExpired = false
   author = "Gray Zein Syah Putra"
   
   defaultTheme = "light"
-  disableThemeToggle = false
+  disableThemeToggle = true
   
   ShowReadingTime = true
   ShowShareButtons = false
