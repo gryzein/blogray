@@ -17,6 +17,7 @@ buildExpired = false
   title = "Blogray"
   description = "Personal blog by Gray"
   author = "Gray Zein Syah Putra"
+  images = ["/logo.svg"]
   
   defaultTheme = "light"
   disableThemeToggle = true

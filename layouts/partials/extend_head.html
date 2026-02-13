@@ -1,0 +1,9 @@
+{{- with .Params.cover.image }}
+{{- $imageURL := . }}
+{{- if not (hasPrefix . "http") }}
+  {{- $imageURL = printf "%s%s" $.Site.BaseURL (strings.TrimPrefix "/" .) }}
+{{- end }}
+<meta property="og:image:width" content="1408">
+<meta property="og:image:height" content="768">
+<meta property="og:image:type" content="image/png">
+{{- end }}
