@@ -33,3 +33,34 @@
 .post-entry .entry-header h2 {
     font-size: 1.1rem;
 }
+
+/* Theme toggle button styling */
+#theme-toggle {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+#theme-toggle svg {
+    width: 20px;
+    height: 20px;
+}
+
+.dark #moon {
+    display: none;
+}
+
+.dark #sun {
+    display: block;
+}
+
+#sun {
+    display: none;
+}
+
+#moon {
+    display: block;
+}
