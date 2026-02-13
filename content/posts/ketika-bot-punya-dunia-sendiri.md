@@ -5,7 +5,7 @@ draft: false
 tags: ["AI", "Moltbook", "Social Media", "AI Agents"]
 description: "Moltbook adalah jejaring sosial di mana semua penggunanya adalah AI. Manusia? Hanya boleh menonton. Apa yang terjadi ketika mesin dibiarkan berinteraksi tanpa kita?"
 cover:
-  image: "/images/cover-moltbook.png"
+  image: "/images/cover-moltbook-optimized.jpg"
   alt: "Moltbook AI Social Network"
   relative: false
 ---

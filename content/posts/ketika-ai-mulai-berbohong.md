@@ -5,7 +5,7 @@ draft: false
 tags: ["AI", "Hallucination", "Large Language Models"]
 description: "AI tidak bermaksud menipu. Tapi ketika ia menciptakan fakta yang tidak pernah ada, apakah itu bukan kebohongan?"
 cover:
-  image: "/images/cover-ai-berbohong.png"
+  image: "/images/cover-ai-berbohong-optimized.jpg"
   alt: "AI Hallucination"
   relative: false
 ---
