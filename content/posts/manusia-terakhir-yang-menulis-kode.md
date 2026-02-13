@@ -14,7 +14,7 @@ Ada lelucon di kalangan programmer senior.
 
 "Kami tidak menulis kode lagi. Kami hanya menjelaskan kepada AI apa yang kami mau, lalu memperbaiki hasilnya."
 
-Lelucon itu semakin tidak lucu—karena semakin mendekati kenyataan.
+Lelucon itu semakin tidak lucu karena semakin mendekati kenyataan.
 
 ## Revolusi yang Tidak Diminta
 
@@ -32,13 +32,13 @@ Programmer yang dulu menghabiskan jam untuk boilerplate code sekarang menghabisk
 
 Tapi inilah yang aneh.
 
-Meski AI membuat coding lebih cepat, entah mengapa pekerjaan programmer tidak berkurang. Malah bertambah. Perusahaan yang mengadopsi AI coding tidak memecat developer—mereka memperluas ambisi.
+Meski AI membuat coding lebih cepat, entah mengapa pekerjaan programmer tidak berkurang. Malah bertambah. Perusahaan yang mengadopsi AI coding tidak memecat developer. Mereka memperluas ambisi.
 
 Proyek yang dulu dianggap terlalu besar sekarang feasible. Fitur yang dulu diprioritaskan rendah sekarang dikerjakan. Startup dengan tim kecil membangun produk dengan kompleksitas yang dulu butuh puluhan engineer.
 
 AI tidak menggantikan programmer. AI meningkatkan appetite kita terhadap software.
 
-Dan mungkin itulah yang seharusnya kita takutkan—bukan kehilangan pekerjaan, tapi perubahan total tentang apa artinya bekerja.
+Dan mungkin itulah yang seharusnya kita takutkan. Bukan kehilangan pekerjaan, tapi perubahan total tentang apa artinya bekerja.
 
 ## Dari Penulis Menjadi Kurator
 
@@ -48,15 +48,15 @@ Mereka tidak menulis setiap baris kode. Mereka mengarahkan AI, mengevaluasi hasi
 
 Ini bukan degradasi. Ini evolusi.
 
-Fotografer tidak menjadi kurang penting ketika kamera menjadi otomatis. Mereka berhenti memikirkan exposure dan fokus pada komposisi. Programmer mungkin mengalami transisi serupa—berhenti memikirkan sintaks, fokus pada arsitektur.
+Fotografer tidak menjadi kurang penting ketika kamera menjadi otomatis. Mereka berhenti memikirkan exposure dan fokus pada komposisi. Programmer mungkin mengalami transisi serupa. Berhenti memikirkan sintaks, fokus pada arsitektur.
 
-Tapi transisi tidak pernah mulus. Ada generasi yang terjebak di tengah—terlalu terlatih dalam cara lama untuk sepenuhnya memeluk yang baru.
+Tapi transisi tidak pernah mulus. Ada generasi yang terjebak di tengah. Terlalu terlatih dalam cara lama untuk sepenuhnya memeluk yang baru.
 
 ## Yang Tidak Bisa Diotomatisasi
 
 Ada aspek programming yang AI masih struggle.
 
-Memahami apa yang sebenarnya dibutuhkan pengguna—bukan apa yang mereka bilang butuh. Menyeimbangkan trade-off teknis dengan realitas bisnis. Memutuskan kapan harus refactor dan kapan harus move on. Berkomunikasi dengan manusia yang tidak tahu cara berbicara dengan mesin.
+Memahami apa yang sebenarnya dibutuhkan pengguna, bukan apa yang mereka bilang butuh. Menyeimbangkan trade-off teknis dengan realitas bisnis. Memutuskan kapan harus refactor dan kapan harus move on. Berkomunikasi dengan manusia yang tidak tahu cara berbicara dengan mesin.
 
 Ini semua adalah soft skill yang selama ini dianggap "bukan programming". Ironis bahwa justru ini yang akan mendefinisikan programmer di masa depan.
 
@@ -66,7 +66,7 @@ Coding menjadi komoditas. Pemikiran tetap langka.
 
 Dalam setiap revolusi industri, ada yang tertinggal.
 
-Bukan karena mereka tidak mampu—tapi karena mereka tidak mau. Atau tidak tahu harus berubah ke arah mana. Atau berubah terlalu lambat.
+Bukan karena mereka tidak mampu, tapi karena mereka tidak mau. Atau tidak tahu harus berubah ke arah mana. Atau berubah terlalu lambat.
 
 Programmer yang bertahan mungkin bukan yang paling jago menulis kode. Tapi yang paling adaptif. Yang melihat AI bukan sebagai ancaman atau alat, tapi sebagai partner dengan kelebihan dan keterbatasan sendiri.
 
@@ -76,10 +76,10 @@ Mungkin tidak akan ada "manusia terakhir yang menulis kode".
 
 Kode akan tetap ditulis. Hanya definisi "menulis" yang berubah. Seperti kita masih "menulis" meski menggunakan keyboard, bukan pena. Masih "menghitung" meski kalkulator yang bekerja.
 
-Yang menarik bukan apakah manusia akan digantikan—tapi manusia seperti apa yang akan tersisa.
+Yang menarik bukan apakah manusia akan digantikan, tapi manusia seperti apa yang akan tersisa.
 
-Mereka yang bisa bekerja dengan mesin. Yang tidak takut menjadi kurang teknis untuk menjadi lebih efektif. Yang memahami bahwa nilai mereka bukan di jari yang mengetik—tapi di kepala yang berpikir.
+Mereka yang bisa bekerja dengan mesin. Yang tidak takut menjadi kurang teknis untuk menjadi lebih efektif. Yang memahami bahwa nilai mereka bukan di jari yang mengetik, tapi di kepala yang berpikir.
 
 ---
 
-*Menulis kode mungkin akan menjadi seperti menulis tangan—masih bisa, kadang perlu, tapi bukan cara utama kita bekerja.*
+*Menulis kode mungkin akan menjadi seperti menulis tangan. Masih bisa, kadang perlu, tapi bukan cara utama kita bekerja.*

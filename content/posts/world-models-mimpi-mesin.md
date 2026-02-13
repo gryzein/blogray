@@ -17,7 +17,7 @@ Dan kini, di tahun 2026, mesin mulai belajar bermimpi dengan cara yang sama.
 
 ## Kelahiran Sang Pemimpi Digital
 
-World Models bukanlah sekadar algoritma baru. Ia adalah pergeseran paradigma—sebuah upaya untuk memberikan mesin kemampuan yang selama ini hanya dimiliki makhluk bernapas: *imajinasi*.
+World Models bukanlah sekadar algoritma baru. Ia adalah pergeseran paradigma, sebuah upaya untuk memberikan mesin kemampuan yang selama ini hanya dimiliki makhluk bernapas: *imajinasi*.
 
 Yann LeCun, salah satu pionir deep learning, baru-baru ini meninggalkan Meta untuk mendirikan laboratorium khusus yang mengejar mimpi ini. Valuasi lima miliar dolar yang ia cari bukan untuk membuat chatbot yang lebih pintar, melainkan untuk menciptakan AI yang benar-benar *mengerti* realitas.
 
@@ -33,7 +33,7 @@ Seperti seorang pecatur ulung yang memainkan seratus langkah ke depan dalam bena
 
 ## Dari Genie hingga Mimpi yang Lebih Besar
 
-Google DeepMind telah melangkah lebih jauh dengan proyek Genie—sebuah sistem yang mampu menghasilkan lingkungan interaktif hanya dari satu gambar. Bayangkan memberikan AI sebuah foto pemandangan, dan ia menciptakan seluruh dunia yang bisa kamu jelajahi.
+Google DeepMind telah melangkah lebih jauh dengan proyek Genie, sebuah sistem yang mampu menghasilkan lingkungan interaktif hanya dari satu gambar. Bayangkan memberikan AI sebuah foto pemandangan, dan ia menciptakan seluruh dunia yang bisa kamu jelajahi.
 
 Ini bukan lagi fiksi ilmiah. Ini adalah kenyataan yang sedang dibentuk di laboratorium-laboratorium paling canggih di dunia.
 
@@ -41,7 +41,7 @@ Ini bukan lagi fiksi ilmiah. Ini adalah kenyataan yang sedang dibentuk di labora
 
 Namun, di balik semua kemajuan ini, tersimpan pertanyaan-pertanyaan yang lebih dalam. Jika mesin bisa bermimpi, apakah mimpi itu *nyata* baginya? Jika AI memiliki model dunia internal, apakah itu berarti ia memiliki semacam *pengalaman*?
 
-Kita berdiri di ambang sesuatu yang besar. Bukan sekadar revolusi teknologi, tetapi mungkin—hanya mungkin—sebuah jendela baru untuk memahami apa artinya menjadi sadar.
+Kita berdiri di ambang sesuatu yang besar. Bukan sekadar revolusi teknologi, tetapi mungkin, hanya mungkin, sebuah jendela baru untuk memahami apa artinya menjadi sadar.
 
 ## Menatap Cakrawala
 
