@@ -54,6 +54,8 @@ buildExpired = false
   hiddenInSingle = false
 
 [params.label]
+  icon = "/logo.svg"
+  iconHeight = 35
   text = "Blogray"
 
 [params.fuseOpts]
