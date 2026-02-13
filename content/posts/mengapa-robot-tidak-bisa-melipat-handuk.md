@@ -4,6 +4,10 @@ date: 2026-02-13T10:00:00+07:00
 draft: false
 tags: ["AI", "Robotics", "Embodied AI", "Physical Intelligence"]
 description: "AI bisa mengalahkan grandmaster catur. Tapi melipat handuk? Itu masih terlalu sulit. Ini menceritakan lebih banyak tentang kecerdasan daripada yang kita kira."
+cover:
+  image: "/images/cover-robot-handuk.png"
+  alt: "Robot Melipat Handuk"
+  relative: false
 ---
 
 Ada ironi yang indah dalam perkembangan AI.

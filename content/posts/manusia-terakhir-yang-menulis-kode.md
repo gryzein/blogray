@@ -4,6 +4,10 @@ date: 2026-02-13T09:00:00+07:00
 draft: false
 tags: ["AI", "Coding", "Software Development", "Automation"]
 description: "Di era AI yang bisa menulis program, apa artinya menjadi programmer? Mungkin bukan tentang menulis kode lagi."
+cover:
+  image: "/images/cover-menulis-kode.png"
+  alt: "AI Coding"
+  relative: false
 ---
 
 Ada lelucon di kalangan programmer senior.

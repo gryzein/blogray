@@ -4,6 +4,10 @@ date: 2026-02-13T08:00:00+07:00
 draft: false
 tags: ["AI", "Hallucination", "Large Language Models"]
 description: "AI tidak bermaksud menipu. Tapi ketika ia menciptakan fakta yang tidak pernah ada, apakah itu bukan kebohongan?"
+cover:
+  image: "/images/cover-ai-berbohong.png"
+  alt: "AI Hallucination"
+  relative: false
 ---
 
 Ada momen aneh dalam percakapan dengan AI.
