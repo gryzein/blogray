@@ -1,5 +1,5 @@
 baseURL = "https://grayzein.site/"
-title = "Blogray"
+title = "GRAI"
 languageCode = "id"
 theme = "PaperMod"
 
@@ -14,7 +14,7 @@ buildExpired = false
 
 [params]
   env = "production"
-  title = "Blogray"
+  title = "GRAI"
   description = "Personal blog by Gray"
   author = "Gray Zein Syah Putra"
   images = ["/logo.svg"]
@@ -39,7 +39,7 @@ buildExpired = false
   tocopen = false
 
   # [params.homeInfoParams]
-    # Title = "Blogray"
+    # Title = "GRAI"
     # Content = "Personal blog by Gray Zein Syah Putra"
 
   [params.profileMode]
