@@ -56,7 +56,7 @@ buildExpired = false
 [params.label]
   icon = "/logo.svg"
   iconHeight = 35
-  text = "Blogray"
+  text = ""
 
 [params.fuseOpts]
   isCaseSensitive = false
