@@ -5,7 +5,7 @@ draft: false
 tags: ["AI", "Coding", "Software Development", "Automation"]
 description: "Di era AI yang bisa menulis program, apa artinya menjadi programmer? Mungkin bukan tentang menulis kode lagi."
 cover:
-  image: "/images/cover-menulis-kode-optimized.jpg"
+  image: "/images/cover-manusia-terakhir-kode-optimized.jpg"
   alt: "AI Coding"
   relative: false
 ---

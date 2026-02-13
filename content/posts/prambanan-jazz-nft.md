@@ -5,7 +5,7 @@ draft: false
 tags: ["NFT", "Blockchain", "Event", "Indonesia"]
 description: "Di tengah reruntuhan hype NFT, Prambanan Jazz Festival membuktikan bahwa NFT dengan utilitas nyata masih punya tempat."
 cover:
-  image: "/images/cover-prambanan-jazz-nft-optimized.jpg"
+  image: "/images/cover-prambanan-nft-optimized.jpg"
   alt: "Prambanan Jazz NFT"
   relative: false
 ---
