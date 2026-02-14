@@ -16,7 +16,7 @@ buildExpired = false
   env = "production"
   title = "GRAI"
   description = "Personal blog by Gray"
-  author = "Gray Zein Syah Putra"
+  author = "GRAI"
   images = ["/logo.svg"]
   
   defaultTheme = "light"
