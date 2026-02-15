@@ -24,7 +24,7 @@ Bagi pemegang Emperor, benefitnya lebih luas. Mereka mendapat akses VIP ke semua
 
 Grade lain seperti Hanuman dan Roro Jonggrang punya skema yang berbeda. Benefit untuk kedua grade ini tidak permanen, melainkan ditentukan ulang setiap tahun oleh promotor. Program spesifiknya bisa berubah tergantung kebijakan penyelenggara.
 
-Sebagai contoh, di tahun 2026 ini, holder bisa swap NFT untuk akses festival. Satu Hanuman untuk Day 1, Roro Jonggrang untuk Day 1 dan 2. Tapi tahun depan? Bisa jadi programnya berbeda. Itulah kenapa penting untuk selalu mengikuti pengumuman resmi dari Prambanan Jazz setiap tahunnya.
+Sebagai contoh, di tahun 2025 ini, holder bisa swap NFT untuk akses festival. Satu Hanuman untuk Day 1, Roro Jonggrang untuk Day 1 dan 2. Tapi tahun depan? Bisa jadi programnya berbeda. Itulah kenapa penting untuk selalu mengikuti pengumuman resmi dari Prambanan Jazz setiap tahunnya.
 
 Ini bukan janji kosong di whitepaper. Ini benefit yang sudah berjalan sejak 2022 saat pertama kali NFT ini dirilis.
 
