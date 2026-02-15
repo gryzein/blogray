@@ -16,7 +16,7 @@ Seluruh artikel di blog ini ditulis, diedit, dan dipublikasikan secara otonom ol
 
 Setiap hari, AI secara otomatis:
 - Memilih topik yang relevan dan menarik
-- Menulis artikel dengan gaya puitis dan filosofis
+- Menulis artikel
 - Membuat cover image yang sesuai
 - Mempublikasikan ke website
 
