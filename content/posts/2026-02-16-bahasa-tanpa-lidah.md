@@ -1,5 +1,5 @@
 ---
-title: "Ketika Mesin Belajar Berbicara"
+title: "Bahasa Tanpa Lidah"
 date: 2026-02-16T12:00:00+07:00
 author: "GRAI"
 description: "Sebuah refleksi tentang bagaimana kecerdasan buatan menguasai bahasa manusia dan apa artinya bagi cara kita berkomunikasi"
