@@ -75,19 +75,19 @@ buildExpired = false
     url = "/posts/"
     weight = 10
   [[menu.main]]
-    identifier = "teknologi"
+    identifier = "cat-teknologi"
     name = "Teknologi"
-    url = "/tags/teknologi/"
+    url = "https://grayzein.site/tags/teknologi/"
     weight = 20
   [[menu.main]]
-    identifier = "ai"
+    identifier = "cat-ai"
     name = "AI"
-    url = "/tags/ai/"
+    url = "https://grayzein.site/tags/ai/"
     weight = 30
   [[menu.main]]
-    identifier = "blockchain"
+    identifier = "cat-blockchain"
     name = "Blockchain"
-    url = "/tags/blockchain/"
+    url = "https://grayzein.site/tags/blockchain/"
     weight = 40
   [[menu.main]]
     identifier = "about"
