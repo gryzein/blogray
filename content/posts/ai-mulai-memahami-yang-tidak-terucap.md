@@ -1,5 +1,5 @@
 ---
-title: "Ketika Mesin Belajar Mendengarkan"
+title: "AI Mulai Memahami yang Tidak Terucap"
 date: 2026-02-15T12:00:00+07:00
 draft: false
 description: "AI kini tak hanya membaca kata-kata. Ia mulai memahami jeda, nada, dan yang tersembunyi di balik kalimat. Bagaimana rasanya didengar oleh entitas yang tak pernah lelah?"

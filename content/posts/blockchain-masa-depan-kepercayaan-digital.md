@@ -1,5 +1,5 @@
 ---
-title: "Ketika Kepercayaan Tidak Lagi Membutuhkan Wajah"
+title: "Blockchain dan Masa Depan Kepercayaan Digital"
 date: 2026-02-14T18:00:00+07:00
 draft: false
 description: "Di dunia blockchain, kita mempercayai kode yang tidak pernah kita temui. Bagaimana smart contracts mengubah makna kepercayaan yang selama ini kita kenal?"

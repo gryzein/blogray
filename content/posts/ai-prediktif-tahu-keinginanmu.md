@@ -1,5 +1,5 @@
 ---
-title: "Ketika Mesin Belajar Mengenal Kita Sebelum Kita Bertanya"
+title: "AI Prediktif yang Tahu Keinginanmu Sebelum Diminta"
 date: 2026-02-15T07:00:00+07:00
 draft: false
 description: "Di era Super-Apps dan AI prediktif, mesin mulai memahami kebutuhan kita sebelum kita sempat mengucapkannya. Apakah ini kemajuan, atau kehilangan sesuatu yang fundamental?"

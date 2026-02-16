@@ -1,5 +1,5 @@
 ---
-title: "Ketika AI Bergabung dalam Orkestra Penemuan Ilmiah"
+title: "AI Kini Menjadi Rekan Peneliti"
 date: 2026-02-14T12:00:00+07:00
 draft: false
 description: "Di tahun 2026, AI tidak lagi sekadar menjawab pertanyaan. Ia mulai bertanya, menguji hipotesis, dan menemukan hal-hal yang belum pernah terpikirkan manusia."

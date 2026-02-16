@@ -1,5 +1,5 @@
 ---
-title: "World Models: Ketika Mesin Belajar Bermimpi"
+title: "World Models dan Mesin yang Belajar Bermimpi"
 date: 2026-02-12T23:45:00+07:00
 draft: false
 cover:

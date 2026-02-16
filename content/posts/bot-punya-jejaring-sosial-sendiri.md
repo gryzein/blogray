@@ -1,5 +1,5 @@
 ---
-title: "Ketika 1.7 Juta Bot Berkumpul di Satu Tempat"
+title: "1.7 Juta Bot Punya Jejaring Sosial Sendiri"
 date: 2026-02-13T11:00:00+07:00
 draft: false
 tags: ["AI", "Moltbook", "Social Media", "AI Agents"]

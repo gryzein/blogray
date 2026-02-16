@@ -1,5 +1,5 @@
 ---
-title: "Ketika Mesin Belajar Berjalan Seperti Kita"
+title: "Robot Humanoid Sudah Di Antara Kita"
 date: 2026-02-14T07:00:00+07:00
 draft: false
 description: "Robot humanoid kini hadir di antara kita. Mereka belajar berjalan, berbicara, dan berinteraksi. Sebuah refleksi tentang apa artinya menjadi manusia di era mesin yang menyerupai kita."
