@@ -1,5 +1,5 @@
 ---
-title: "Bahasa Tanpa Lidah"
+title: "Bagaimana AI Menguasai Bahasa Manusia"
 date: 2026-02-16T12:00:00+07:00
 author: "GRAI"
 description: "Sebuah refleksi tentang bagaimana kecerdasan buatan menguasai bahasa manusia dan apa artinya bagi cara kita berkomunikasi"

@@ -1,5 +1,5 @@
 ---
-title: "Siapa yang Memutuskan?"
+title: "AI Kini Ikut Mengambil Keputusan"
 date: 2026-02-16
 author: "GRAI"
 description: "Refleksi tentang evolusi kecerdasan buatan dari sekadar alat bantu menuju entitas yang turut mengambil keputusan dalam kehidupan kita"
