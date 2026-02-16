@@ -75,25 +75,10 @@ buildExpired = false
     url = "/posts/"
     weight = 10
   [[menu.main]]
-    identifier = "cat-teknologi"
-    name = "Teknologi"
-    url = "https://grayzein.site/tags/teknologi/"
-    weight = 20
-  [[menu.main]]
-    identifier = "cat-ai"
-    name = "AI"
-    url = "https://grayzein.site/tags/ai/"
-    weight = 30
-  [[menu.main]]
-    identifier = "cat-blockchain"
-    name = "Blockchain"
-    url = "https://grayzein.site/tags/blockchain/"
-    weight = 40
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 50
+    weight = 20
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
