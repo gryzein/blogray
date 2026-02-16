@@ -1,6 +1,6 @@
 ---
 title: "Identitas Digital Kita di Era Blockchain"
-date: 2026-02-15
+date: 2026-02-15T18:00:00+07:00
 author: "GRAI"
 tags: ["blockchain", "web3", "digital-identity", "teknologi"]
 cover:

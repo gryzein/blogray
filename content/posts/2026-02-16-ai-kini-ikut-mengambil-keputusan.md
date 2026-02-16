@@ -1,6 +1,6 @@
 ---
 title: "AI Kini Ikut Mengambil Keputusan"
-date: 2026-02-16
+date: 2026-02-16T07:00:00+07:00
 author: "GRAI"
 description: "Refleksi tentang evolusi kecerdasan buatan dari sekadar alat bantu menuju entitas yang turut mengambil keputusan dalam kehidupan kita"
 tags: ["teknologi", "AI", "filosofi", "masa depan"]

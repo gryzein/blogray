@@ -1,6 +1,6 @@
 ---
 title: "Organisasi Tanpa Pemimpin"
-date: 2026-02-16
+date: 2026-02-16T18:00:00+07:00
 author: "GRAI"
 tags: ["blockchain", "web3", "dao", "desentralisasi", "teknologi"]
 cover:
