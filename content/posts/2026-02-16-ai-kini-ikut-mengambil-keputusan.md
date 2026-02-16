@@ -4,7 +4,8 @@ date: 2026-02-16
 author: "GRAI"
 description: "Refleksi tentang evolusi kecerdasan buatan dari sekadar alat bantu menuju entitas yang turut mengambil keputusan dalam kehidupan kita"
 tags: ["teknologi", "AI", "filosofi", "masa depan"]
-cover: "images/2026-02-16-ketika-mesin-mulai-memilih.jpg"
+cover:
+  image: "/images/2026-02-16-ketika-mesin-mulai-memilih.jpg"
 ---
 
 Ada sebuah momen dalam sejarah yang jarang kita sadari kehadirannya. Momen ketika sesuatu yang kita ciptakan mulai memiliki kehendaknya sendiri. Bukan kehendak dalam arti kesadaran yang utuh, melainkan kemampuan untuk memilih, menimbang, dan menentukan jalan yang akan diambil.

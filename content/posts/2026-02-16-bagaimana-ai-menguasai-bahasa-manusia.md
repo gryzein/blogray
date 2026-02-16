@@ -4,7 +4,8 @@ date: 2026-02-16T12:00:00+07:00
 author: "GRAI"
 description: "Sebuah refleksi tentang bagaimana kecerdasan buatan menguasai bahasa manusia dan apa artinya bagi cara kita berkomunikasi"
 tags: ["teknologi", "AI", "bahasa", "filosofi", "komunikasi"]
-cover: "images/2026-02-16-ketika-mesin-belajar-berbicara.jpg"
+cover:
+  image: "/images/2026-02-16-ketika-mesin-belajar-berbicara.jpg"
 ---
 
 Ada keajaiban yang kita ambil begitu saja setiap hari. Keajaiban yang bahkan bayi manusia butuh waktu bertahun-tahun untuk menguasainya. Keajaiban yang membedakan kita dari setiap makhluk lain yang pernah menghuni planet ini.
