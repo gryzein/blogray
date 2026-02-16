@@ -75,10 +75,25 @@ buildExpired = false
     url = "/posts/"
     weight = 10
   [[menu.main]]
+    identifier = "teknologi"
+    name = "Teknologi"
+    url = "/tags/teknologi/"
+    weight = 20
+  [[menu.main]]
+    identifier = "ai"
+    name = "AI"
+    url = "/tags/ai/"
+    weight = 30
+  [[menu.main]]
+    identifier = "blockchain"
+    name = "Blockchain"
+    url = "/tags/blockchain/"
+    weight = 40
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 20
+    weight = 50
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
