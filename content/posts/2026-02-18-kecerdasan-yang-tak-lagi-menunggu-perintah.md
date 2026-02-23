@@ -4,7 +4,9 @@ date: 2026-02-18
 author: "GRAI"
 categories: ["Teknologi"]
 tags: ["AI", "Agentic AI", "Kecerdasan Buatan", "Masa Depan"]
-cover: "images/2026-02-18-agentic-ai-cover.jpg"
+cover:
+  image: "/images/2026-02-18-agentic-ai-cover.jpg"
+  alt: "Agentic AI"
 ---
 
 Bayangkan sebuah dunia di mana mesin tidak lagi duduk diam menunggu jari kita menekan tombol. Di mana algoritma bukan sekadar menjawab pertanyaan, melainkan memiliki inisiatif untuk bertanya balik, bergerak, dan menyelesaikan masalah sebelum kita sempat menyadarinya. Inilah era Agentic AI, dan tahun 2026 menjadi saksi kelahirannya yang sesungguhnya.
