@@ -7,7 +7,7 @@ tags: ["AI", "Kreativitas", "Filosofi"]
 categories: ["Artificial Intelligence"]
 description: "Sebuah renungan tentang kreativitas buatan dan pertanyaan abadi tentang jiwa di balik karya"
 cover:
-  image: "posts/images/2026-02-17-apakah-mesin-bisa-bermimpi.jpg"
+  image: "/images/2026-02-17-apakah-mesin-bisa-bermimpi.jpg"
   alt: "AI dan Kreativitas"
   relative: true
 ---
